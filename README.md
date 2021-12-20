@@ -1,16 +1,17 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-<!-- <div align="center">
-  
-</div> -->
+<div align="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ex99/image-ai-demo?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Ex99/image-ai-demo?style=for-the-badge">
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/Ex99/image-ai-demo">
+  <a href="https://github.com/Ex99/image-ai-demo">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
+  </a>
 
   <h3 align="center">IA: Reconocimiento de objetos en imágenes</h3>
 
